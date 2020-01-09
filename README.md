@@ -1,3 +1,7 @@
+
+> This forked version is to be used only for project under AGPLv3.
+> This is the Unioffice without a watermark if you have no license.
+
 **unioffice** is a library for creation of Office Open XML documents (.docx, .xlsx
 and .pptx).  It's goal is to be the most compatible and highest performance Go
 library for creation and editing of docx/xlsx/pptx files.
@@ -11,6 +15,8 @@ Requires **go1.8+**, builds are tested with 1.8, 1.9 and tip.
 [![go 1.8+](https://img.shields.io/badge/go-1.8%2B-blue.svg)](http://golang.org)
 
 ![https://github.com/unidoc/unioffice/](./_examples/preview.png "unioffice")
+
+
 
 ## Status ##
 
