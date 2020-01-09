@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/color"
+	"github.com/scrib-dev/unioffice/document"
+	"github.com/scrib-dev/unioffice/measurement"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 func main() {

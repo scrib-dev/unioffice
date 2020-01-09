@@ -13,7 +13,7 @@ import (
 	"image"
 	"os"
 
-	"github.com/unidoc/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/measurement"
 	// Add image format support
 	_ "image/gif"
 	_ "image/jpeg"

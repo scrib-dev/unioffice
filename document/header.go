@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 // Header is a header for a document section.

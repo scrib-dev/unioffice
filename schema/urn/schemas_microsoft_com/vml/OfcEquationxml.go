@@ -12,7 +12,7 @@ package vml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 type OfcEquationxml struct {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/scrib-dev/unioffice/schema/soo/dml"
 )
 
 func TestCT_ShapeStyleConstructor(t *testing.T) {

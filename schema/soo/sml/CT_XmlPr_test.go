@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/scrib-dev/unioffice/schema/soo/sml"
 )
 
 func TestCT_XmlPrConstructor(t *testing.T) {

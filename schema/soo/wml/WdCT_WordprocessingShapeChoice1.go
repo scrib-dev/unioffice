@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 type WdCT_WordprocessingShapeChoice1 struct {

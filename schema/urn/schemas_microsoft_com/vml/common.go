@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 type ST_Ext byte

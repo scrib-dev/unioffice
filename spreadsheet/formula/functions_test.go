@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/sml"
-	"github.com/unidoc/unioffice/spreadsheet"
-	"github.com/unidoc/unioffice/spreadsheet/formula"
+	"github.com/scrib-dev/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/schema/soo/sml"
+	"github.com/scrib-dev/unioffice/spreadsheet"
+	"github.com/scrib-dev/unioffice/spreadsheet/formula"
 )
 
 // Input is an input formula string.

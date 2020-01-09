@@ -13,13 +13,13 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/unidoc/unioffice/spreadsheet/formula"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
+	"github.com/scrib-dev/unioffice/spreadsheet/formula"
+	"github.com/scrib-dev/unioffice/spreadsheet/reference"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/schema/soo/sml"
-	"github.com/unidoc/unioffice/vmldrawing"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/schema/soo/sml"
+	"github.com/scrib-dev/unioffice/vmldrawing"
 )
 
 // Sheet is a single sheet within a workbook.

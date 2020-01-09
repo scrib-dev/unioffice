@@ -14,8 +14,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/unidoc/unioffice/spreadsheet"
-	"github.com/unidoc/unioffice/spreadsheet/formula"
+	"github.com/scrib-dev/unioffice/spreadsheet"
+	"github.com/scrib-dev/unioffice/spreadsheet/formula"
 )
 
 func TestEval(t *testing.T) {

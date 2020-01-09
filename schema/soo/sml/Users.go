@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 type Users struct {

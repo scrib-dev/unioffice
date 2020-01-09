@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type CT_TableStyleList struct {

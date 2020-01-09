@@ -5,7 +5,7 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/scrib-dev/unioffice/spreadsheet"
 )
 
 func main() {

@@ -8,10 +8,10 @@
 package spreadsheet
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/color"
+	"github.com/scrib-dev/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/schema/soo/sml"
 )
 
 // RichTextRun is a segment of text within a cell that is directly formatted.

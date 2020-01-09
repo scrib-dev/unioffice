@@ -10,10 +10,10 @@ package document
 import (
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 // Styles is the document wide styles contained in styles.xml.

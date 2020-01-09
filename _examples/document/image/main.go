@@ -5,11 +5,11 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/document"
+	"github.com/scrib-dev/unioffice/measurement"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 var lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis, lectus dictum feugiat tempus, sem neque finibus enim, sed eleifend sem nunc ac diam. Vestibulum tempus sagittis elementum`

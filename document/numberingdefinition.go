@@ -7,7 +7,7 @@
 
 package document
 
-import "github.com/unidoc/unioffice/schema/soo/wml"
+import "github.com/scrib-dev/unioffice/schema/soo/wml"
 
 // NumberingDefinition defines a numbering definition for a list of pragraphs.
 type NumberingDefinition struct {

@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice/document"
+	"github.com/scrib-dev/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 
 	"github.com/go-ole/go-ole/oleutil"
 )

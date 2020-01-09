@@ -21,16 +21,16 @@ import (
 	"os"
 	"path"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/common/license"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/pml"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/color"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/common/license"
+	"github.com/scrib-dev/unioffice/measurement"
+	"github.com/scrib-dev/unioffice/schema/soo/dml"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/scrib-dev/unioffice/schema/soo/pkg/relationships"
+	"github.com/scrib-dev/unioffice/schema/soo/pml"
+	"github.com/scrib-dev/unioffice/zippkg"
 )
 
 // Presentation is the a presentation base document.

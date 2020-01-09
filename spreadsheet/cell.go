@@ -15,11 +15,11 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/schema/soo/sml"
-	"github.com/unidoc/unioffice/spreadsheet/format"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/schema/soo/sml"
+	"github.com/scrib-dev/unioffice/spreadsheet/format"
+	"github.com/scrib-dev/unioffice/spreadsheet/reference"
 )
 
 const iso8601Format = "2006-01-02T15:04:05Z07:00"

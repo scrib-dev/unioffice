@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 // XMLHeader is a header that MarshalXML uses to prefix the XML files it creates.

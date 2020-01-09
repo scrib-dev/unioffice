@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"time"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 type Variant struct {

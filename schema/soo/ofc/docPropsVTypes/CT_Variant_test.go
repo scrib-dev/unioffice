@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/ofc/docPropsVTypes"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/docPropsVTypes"
 )
 
 func TestCT_VariantConstructor(t *testing.T) {

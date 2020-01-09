@@ -14,11 +14,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/excel"
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/scrib-dev/unioffice/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/scrib-dev/unioffice/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/scrib-dev/unioffice/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type CT_Shapetype struct {

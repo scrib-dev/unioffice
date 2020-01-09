@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/measurement"
-	pic "github.com/unidoc/unioffice/schema/soo/dml/picture"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/measurement"
+	pic "github.com/scrib-dev/unioffice/schema/soo/dml/picture"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 // InlineDrawing is an inlined image within a run.

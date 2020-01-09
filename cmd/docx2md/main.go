@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/unidoc/unioffice/document"
+	"github.com/scrib-dev/unioffice/document"
 )
 
 func main() {

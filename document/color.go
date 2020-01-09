@@ -10,8 +10,8 @@ package document
 import (
 	"fmt"
 
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice/color"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 // Color controls the run or styles color.

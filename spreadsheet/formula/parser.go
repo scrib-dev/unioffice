@@ -11,7 +11,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 //go:generate goyacc -l -o grammar.go  grammar.y

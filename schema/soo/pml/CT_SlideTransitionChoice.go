@@ -12,7 +12,7 @@ package pml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 type CT_SlideTransitionChoice struct {

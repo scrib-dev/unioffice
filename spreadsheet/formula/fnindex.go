@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unioffice/internal/wildcard"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
-	"github.com/unidoc/unioffice/internal/mergesort"
+	"github.com/scrib-dev/unioffice/internal/wildcard"
+	"github.com/scrib-dev/unioffice/spreadsheet/reference"
+	"github.com/scrib-dev/unioffice/internal/mergesort"
 )
 
 func init() {

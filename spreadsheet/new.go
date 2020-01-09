@@ -10,9 +10,9 @@ package spreadsheet
 import (
 	"runtime"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/common"
+	"github.com/scrib-dev/unioffice/schema/soo/sml"
 )
 
 // New constructs a new workbook.

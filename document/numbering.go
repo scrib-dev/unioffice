@@ -8,9 +8,9 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/scrib-dev/unioffice/schema/soo/wml"
 )
 
 // Numbering is the document wide numbering styles contained in numbering.xml.

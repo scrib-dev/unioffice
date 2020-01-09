@@ -11,7 +11,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice"
+	"github.com/scrib-dev/unioffice"
 )
 
 func TestAddPreserveSpaceAttr(t *testing.T) {

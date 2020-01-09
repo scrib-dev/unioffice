@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/math"
+	"github.com/scrib-dev/unioffice"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/math"
 )
 
 type CT_Comment struct {

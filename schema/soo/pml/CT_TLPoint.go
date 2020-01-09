@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/scrib-dev/unioffice/schema/soo/dml"
 )
 
 type CT_TLPoint struct {

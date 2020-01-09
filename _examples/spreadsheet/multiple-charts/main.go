@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/unidoc/unioffice/chart"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/scrib-dev/unioffice/chart"
+	"github.com/scrib-dev/unioffice/spreadsheet"
 )
 
 func main() {

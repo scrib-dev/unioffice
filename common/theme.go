@@ -7,7 +7,7 @@
 
 package common
 
-import "github.com/unidoc/unioffice/schema/soo/dml"
+import "github.com/scrib-dev/unioffice/schema/soo/dml"
 
 // Theme is a drawingml theme.
 type Theme struct {

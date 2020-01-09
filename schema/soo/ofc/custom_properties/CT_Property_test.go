@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/ofc/custom_properties"
+	"github.com/scrib-dev/unioffice/schema/soo/ofc/custom_properties"
 )
 
 func TestCT_PropertyConstructor(t *testing.T) {
